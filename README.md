@@ -2,10 +2,10 @@
 
 ## Full Stack Web Development Student
 * ✉️  Best way to contact me is at [paigehcarroll@gmail.com](mailto:paigehcarroll@gmail.com)
-* 🚀  Proficient in HTML, CSS, JavaScript
+* 🚀  Feels comfortable with in HTML, CSS, JavaScript
 * 🔍  Exploring the MERN stack
 * 🧠  I'm currently learning Model-View-Controller framework
-* 📃  My first portfolio can be viewed [here](https://sillytsundere.github.io/personal-portfolio/)
+* 📃  My first portfolio can be viewed [here](https://sillytsundere.github.io/personal-portfolio/) (this portfolio was created during the second week of my bootcamp and contains projects and assignments made during the bootcamp)
 * 🤝  I'm open to collaborating on exciting projects in any development role to better sharpen my skills!
 
 ## Skills
