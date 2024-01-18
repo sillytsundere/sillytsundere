@@ -2,7 +2,7 @@
 
 ## Full Stack Web Development Student
 * ✉️  Best way to contact me is at [paigehcarroll@gmail.com](mailto:paigehcarroll@gmail.com)
-* 🧠  My portfolio can be viewed [here](https://bestwebpaige.netlify.app/)
+* 🧠  My portfolio can be viewed [here](https://www.bestwebpaige.com/)
 * 🚀  Feels increasingly comfortable with HTML, CSS, JavaScript
 * 🔍  Exploring the MERN stack
 * 📃  My first portfolio can be viewed [here](https://sillytsundere.github.io/personal-portfolio/) (this portfolio was created during the second week of my bootcamp and contains projects and assignments made during the bootcamp)
